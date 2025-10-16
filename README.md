@@ -7,6 +7,8 @@
 
 ---
 ### Google Colab: https://colab.research.google.com/drive/1SgAhRcBlwvrNJYi5aOnu4i1lqn3UAmPL?usp=sharing
+
+##### Google Colab com Modelo de Regressão Junto: https://colab.research.google.com/drive/1Ur-HOe-lJGxtiUsxz-oVdDbSwK9BliRn?usp=sharing
 ---
 
 ## Resultado Final
