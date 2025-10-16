@@ -1,5 +1,12 @@
 # Atividade de Clusterização
 
+- **Aluno:** Maruan Biasi El Achkar
+- **Dataset:** Global Earthquake-Tsunami Risk Assessment Dataset
+- **Fonte:** https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset
+- **Objetivo:** Clusterização geográfica - Definir áreas de diferentes riscos sísmicos pelo mundo.
+
+# Instruções da Atividade
+
 ### Contexto:
 A análise de clusterização é uma técnica fundamental de aprendizado de máquina não supervisionado, utilizada
 para descobrir agrupamentos naturais e padrões ocultos em um conjunto de dados. O objetivo é agrupar pontos de dados
