@@ -3,8 +3,7 @@
 - **Aluno:** Maruan Biasi El Achkar
 - **Dataset:** Global Earthquake-Tsunami Risk Assessment Dataset
 - **Fonte:** https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset
-- **Objetivo:** Clusterização geográfica - Definir áreas de diferentes riscos sísmicos pelo mundo.
-
+- **Objetivo:** Clusterização geográfica - Iidentificar regiões do mundo com perfis sísmicos semelhantes.
 # Instruções da Atividade
 
 ### Contexto:
