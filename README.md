@@ -9,6 +9,12 @@
 ### Google Colab: https://colab.research.google.com/drive/1SgAhRcBlwvrNJYi5aOnu4i1lqn3UAmPL?usp=sharing
 ---
 
+## Resultado Final
+<img width="1493" height="490" alt="download (6)" src="https://github.com/user-attachments/assets/3a5a6819-5c88-4dab-85e4-01c69709f9d1" />
+
+
+
+----------
 # Instruções da Atividade
 
 ### Contexto:
