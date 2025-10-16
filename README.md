@@ -4,6 +4,11 @@
 - **Dataset:** Global Earthquake-Tsunami Risk Assessment Dataset
 - **Fonte:** https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment-dataset
 - **Objetivo:** Clusterização geográfica - Iidentificar regiões do mundo com perfis sísmicos semelhantes.
+
+---
+### Google Colab: https://colab.research.google.com/drive/1SgAhRcBlwvrNJYi5aOnu4i1lqn3UAmPL?usp=sharing
+---
+
 # Instruções da Atividade
 
 ### Contexto:
